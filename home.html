@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+<!--   <body> -->
+  <body style='margin-left:20;margin-right:20;'>
+<!--     <body style="margin:0;padding:0"> -->
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
+
+
+<!--           <div class="img-with-text"> -->
+          <img
+            src="{{ page.profile_picture.src | absolute_url }}"
+            alt="{{ page.profile_picture.alt }}"
+            class="profilepic"
+            width = 300
+            height = 350
+          />
+<!--           <p>P.C. : Fangzhou Zhao </p> 
+        </div> -->
+
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>
