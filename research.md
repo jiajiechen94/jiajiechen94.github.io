@@ -15,7 +15,7 @@ I am currently working on singularity formation in incompressible fluids and rel
 
 <br />
 
-<h1>Publications</h1>
+<h2>Publications</h2>
 <font size="+1">
 <ul>
    <li>

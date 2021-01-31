@@ -11,7 +11,7 @@ og_image: /assets/img/profile-pic.jpg
 
 header:
   pages:
-    - name: Home
+    - name: About
       slug: /
     - name: Education
     - name: Research
@@ -45,8 +45,7 @@ footer:
 # Build settings
 markdown: kramdown
 sass:
-    # style: :compressed
-    style: :nested
+    style: :compressed
 plugins:
   - jekyll-feed
 
