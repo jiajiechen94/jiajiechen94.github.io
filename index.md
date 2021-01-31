@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/Jiajie_pic2.jpg
+  src: /assets/img/Jiajie-pic2.jpg
   alt: website picture
 ---
 
