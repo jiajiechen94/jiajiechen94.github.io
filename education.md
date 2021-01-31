@@ -4,8 +4,8 @@ title: Education
 slug: /education
 ---
 
-<div id="header" style="width:900px;">
-    <div id="centered" style="margin: 0 auto; width:870px;"></div>
+<div id="header" style="width: 800px;">
+    <div id="centered" style="margin: 0 auto; width:770px;"></div>
 
 <font size="+1">	
 <ul>
@@ -23,10 +23,10 @@ slug: /education
 
 <br />
 
-<hr />
+<!-- <hr width="820" /> -->
 
-<div id="header" style="width:900px;">
-    <div id="centered" style="margin: 0 auto; width:870px;"></div>
+<div id="header" style="width:800px;">
+    <div id="centered" style="margin: 0 auto; width: 770px;"></div>
 
 <h2>Teaching Experiences</h2>
 <h3>Teaching Assistant at Caltech </h3>

@@ -6,11 +6,22 @@ slug: /presentations
 
 
 
+<div id="header" style="width:900px;">
+    <div id="centered" style="margin: 0 auto; width:870px;"></div>
 
-<p>1. Student-run analysis and PDE Seminar.  
+<font size="+1">
 
-	
-</p>
+
+
+
+
+
+</font>
+
+</div>
+
+
+
 
 
 <br />

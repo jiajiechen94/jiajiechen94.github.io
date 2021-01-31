@@ -17,7 +17,8 @@ I am currently working on singularity formation in incompressible fluids and rel
 </div>
 
 
-<hr />
+
+<!-- <hr width="820" /> -->
 
 
 <br />
