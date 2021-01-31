@@ -17,6 +17,7 @@ header:
     - name: Research
     - name: Presentations
     - name: CV
+    - nane: Others
 
 footer:
   show_powered_by: true

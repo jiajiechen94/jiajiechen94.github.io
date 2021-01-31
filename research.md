@@ -4,6 +4,8 @@ title: Research
 slug: /research
 ---
 
+<div id="header" style="width:900px;">
+    <div id="centered" style="margin: 0 auto; width:870px;"></div>
 
 <font size="+1">
 	<p>
@@ -12,8 +14,16 @@ I am currently working on singularity formation in incompressible fluids and rel
 <p> I have also worked on variational problem and probability related problems. </p>
 </font>
 
+</div>
+
+
+<hr />
+
 
 <br />
+
+<div id="header" style="width:900px;">
+    <div id="centered" style="margin: 0 auto; width:870px;"></div>
 
 <h2>Publications</h2>
 <font size="+1">
@@ -51,5 +61,6 @@ I am currently working on singularity formation in incompressible fluids and rel
 </ul>
 </font>
 
+</div>
 
 <br />

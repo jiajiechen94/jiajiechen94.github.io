@@ -21,8 +21,9 @@ slug: /education
 
 </div>
 
-
 <br />
+
+<hr />
 
 <div id="header" style="width:900px;">
     <div id="centered" style="margin: 0 auto; width:870px;"></div>
