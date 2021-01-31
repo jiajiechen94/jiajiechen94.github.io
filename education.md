@@ -4,6 +4,8 @@ title: Education
 slug: /education
 ---
 
+<div id="header" style="width:900px;">
+    <div id="centered" style="margin: 0 auto; width:870px;"></div>
 
 <font size="+1">	
 <ul>
@@ -17,8 +19,13 @@ slug: /education
 </ul>
 </font>
 
+</div>
+
 
 <br />
+
+<div id="header" style="width:900px;">
+    <div id="centered" style="margin: 0 auto; width:870px;"></div>
 
 <h2>Teaching Experiences</h2>
 <h3>Teaching Assistant at Caltech </h3>
@@ -32,4 +39,4 @@ slug: /education
  	<li> <b> ACM 106a.</b> Introductory Methods of Computational Mathematics. 2018 Fall </li>
  </ul>
 </font>
-
+</div>
