@@ -9,7 +9,8 @@
       <div class="wrapper">
         <div class="home">
 
-          <figure>
+
+          <div class="img-with-text">
           <img
             src="{{ page.profile_picture.src | absolute_url }}"
             alt="{{ page.profile_picture.alt }}"
@@ -17,9 +18,9 @@
             width = 300
             height = 350
           />
-          <figcaption>P.C. : Fangzhou Zhao </figcaption> 
-        </figure>
-
+              <p>P.C. Fangzhou Zhao</p>
+          </div>
+<!--           <figcaption>P.C. : Fangzhou Zhao </figcaption>  -->
 
           {{ content }}
         </div>
