@@ -5,7 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
-## Jiajie Chen 陈嘉杰
 
 <p>	
 	I am a fourth year graduate student in the Department of Computational and Mathematical Sciences, Caltech. I am currently working on singularity formation in incompressible fluids and related models. 
