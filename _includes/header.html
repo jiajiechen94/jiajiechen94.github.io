@@ -8,7 +8,8 @@
     <nav class="site-nav">
       <a href="#" class="menu-icon"></a>
 
-      <div class="menu">
+      <font size="+1">   
+      <div class="menu">     
         {% for page in site.header.pages %}
           {% if page.slug and page.slug != "" and page.slug != nil %}
             {% assign page_link = page.slug %}
@@ -21,6 +22,7 @@
           </a>
         {% endfor %}
       </div>
+          </font>
     </nav>
   </div>
 </header>
