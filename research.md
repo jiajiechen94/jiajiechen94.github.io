@@ -4,8 +4,8 @@ title: Research
 slug: /research
 ---
 
-<div id="header" style="width:900px;">
-    <div id="centered" style="margin: 0 auto; width:870px;"></div>
+<div id="header" style="width: 110%;">
+    <div id="centered" style="margin: 0 auto; width: 100%;"></div>
 
 <font size="+1">
 	<p>
@@ -23,8 +23,8 @@ I am currently working on singularity formation in incompressible fluids and rel
 
 <br />
 
-<div id="header" style="width:900px;">
-    <div id="centered" style="margin: 0 auto; width:870px;"></div>
+<div id="header" style="width: 110%;">
+    <div id="centered" style="margin: 0 auto; width: 100%;"></div>
 
 <h2>Publications</h2>
 <font size="+1">
