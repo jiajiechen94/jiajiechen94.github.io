@@ -5,8 +5,8 @@ profile_picture:
   alt: website picture
 ---
 
-<div id="header" style="width: 120%;">
-    <div id="centered" style="margin: 0 auto; width: 115%;"></div>
+<div id="header" style="width: 115%;">
+    <div id="centered" style="margin: 0 auto; width: 110%;"></div>
 
 <p>	<font size="+1">
     I am currently a fourth year Ph.D. student in Applied & Comput. Math. at Caltech, advised by 
