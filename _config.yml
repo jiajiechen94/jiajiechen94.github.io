@@ -16,7 +16,9 @@ header:
     - name: Education
     - name: Research
     - name: Presentations
-    - name: <a class="page-link" href="/assets/CV.pdf">CV</a> 
+    - name:   <nav class="site-nav">
+      <a class="page-link" href="/assets/CV.pdf">CV</a> 
+          </nav>
 
 footer:
   show_powered_by: true
