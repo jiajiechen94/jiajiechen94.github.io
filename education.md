@@ -28,7 +28,7 @@ slug: /education
 <ul>
 	<li>  Email: <a href="mailto:jchen@caltech.edu">jchen at caltech.edu </a>
 	</li>
-	<li> Office:  <a href="https://www.caltech.edu/map/campus">jchen at caltech.edu Annerberg 325 </a>, Caltech
+	<li> Office:  <a href="https://www.caltech.edu/map/campus">Annerberg 325 </a>, Caltech
 		</li>		
 </ul>
 </font>

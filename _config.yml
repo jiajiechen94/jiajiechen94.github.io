@@ -16,7 +16,7 @@ header:
     - name: Education
     - name: Research
     - name: Presentations
-    - name: CV
+    - name: <a href="/assets/CV.pdf">CV</a> 
 
 footer:
   show_powered_by: true
