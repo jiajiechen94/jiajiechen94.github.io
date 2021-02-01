@@ -20,7 +20,7 @@ slug: /presentations
 
  <h3>2020 </h3>
 
-  <li>  Analysis seminar,  Korea Institute for Advanced Study, Dec 2020. </li>
+  <li>  Analysis seminar,  Korea Institute for Advanced Study (online), Dec 2020. </li>
    <li>  PDE Seminar, University of Minnesota (online), Nov 2020. </li> 
    <li> Mathematical Research Seminar, Duke Kunshan (online), Nov 2020.  </li>
   <li> Differential Equations seminar, University of Michigan, Jan 2020.  </li>
@@ -31,7 +31,7 @@ slug: /presentations
 
   <li>  Workshop on Mathematics of Fluid Motion III: Theory and Computation, Korea Institute for Advanced Study, Dec 2019. </li>
 
- <li>  PDE Seminar, Nonlinear PDE Center, Chung-Chung-Ang University, Korea, Dec 2019. </li> 
+ <li>  PDE Seminar, Nonlinear PDE Center, Chung-Ang University, Korea, Dec 2019. </li> 
    
    <li>Analysis and PDE Seminar, University of California, San Diego, Nov 2019. </li>
 
@@ -44,7 +44,7 @@ Harvard University, Mar 2019. </li>
  <br />
 
    <h3> 2018 </h3>
-  <li> Workshop on Multiscale Problems in Materials Science and Biology: Analysis and Computation, Tsinghua Sanya International Mathematics Forum, Jan 2018
+  <li> Workshop on Multiscale Problems in Materials Science and Biology: Analysis and Computation, Tsinghua Sanya International Mathematics Forum, Jan 2018.
   	</li>
 
 

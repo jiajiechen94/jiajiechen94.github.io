@@ -44,12 +44,12 @@ slug: /education
 <h2>Teaching Assistant at Caltech </h2>
 <font size="+1">	
  <ul> 	
- 	 <li> <b> ACM 217</b>. Advanced Topics in Stochastic Analysis. 2021 Winter.  </li> 	
- 	 <li> <b> ACM 204</b>. Randomized algorithms for linear algebra. 2020 Winter.  </li> 	 
- 	<li> <b>CMS/ACM 117.</b> Probability Theory and Stochastic Processes. 2019 Fall, 2020 Fall.  </li> 	 	
- 	<li> <b>ACM 95/100b.</b> Introductory Methods of Applied Mathematics. 2019 Spring, 2020 Spring </li> 	
- 	<li> <b> ACM 106b.</b>. Introductory Methods of Computational Mathematics. 2019 Winter </li>
- 	<li> <b> ACM 106a.</b> Introductory Methods of Computational Mathematics. 2018 Fall </li>
+ 	 <li> <b> ACM 217</b>. Advanced Topics in Stochastic Analysis. Winter 2021.  </li> 	
+ 	 <li> <b> ACM 204</b>. Randomized algorithms for linear algebra. Winter 2020.  </li> 	 
+ 	<li> <b>CMS/ACM 117.</b> Probability Theory and Stochastic Processes. Fall 2019, Fall 2020.  </li> 	 	
+ 	<li> <b>ACM 95/100b.</b> Introductory Methods of Applied Mathematics. Spring 2019, Spring 2020. </li> 	
+ 	<li> <b> ACM 106b.</b>. Introductory Methods of Computational Mathematics. Winter 2019.</li>
+ 	<li> <b> ACM 106a.</b> Introductory Methods of Computational Mathematics. Fall 2018. </li>
  </ul>
 </font>
 </div>
