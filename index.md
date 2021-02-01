@@ -5,6 +5,8 @@ profile_picture:
   alt: website picture
 ---
 
+<div id="header" style="width: 110%;">
+    <div id="centered" style="margin: 0 auto; width: 105%;"></div>
 
 <p>	<font size="+1">
     I am currently a fourth year Ph.D. student in Applied & Comput. Math. at Caltech, advised by 
@@ -12,6 +14,7 @@ profile_picture:
 </font>
 <!--   Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>. -->
 </p>
+</div>
 
 <!-- <p>
   You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
