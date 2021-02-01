@@ -26,7 +26,7 @@ I am currently working on singularity formation in incompressible fluids and rel
 <div id="header" style="width: 115%;">
     <div id="centered" style="margin: 0 auto; width: 110%;"></div>
 
-<h2>Publications</h2>
+<h1>Publications</h1>
 <font size="+1">
 <ul>
    <li>
