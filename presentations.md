@@ -15,8 +15,12 @@ slug: /presentations
 
  <h3>2020 </h3>
 
+
+
   <li> Differential Equations seminar, University of Michigan, Jan 2020.  </li>
 
+ <br />
+ 
   <h3> 2019 </h3>
 
   <li>  Workshop on Mathematics of Fluid Motion III: Theory and Computation, Korea Institute for Advanced Study, Dec 2019. </li>
@@ -31,6 +35,7 @@ slug: /presentations
 
  <li> Workshop on Fluid turbulence and Singularities of the Euler/ Navier Stokes equations,
 Harvard University, Mar 2019. </li>
+ <br />
 
    <h3> 2018 </h3>
   <li> Workshop on Multiscale Problems in Materials Science and Biology: Analysis and Computation, Tsinghua Sanya International Mathematics Forum, Jan 2018
