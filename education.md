@@ -23,6 +23,16 @@ slug: /education
 
 <br />
 
+<h2>Contact</h2>
+<ul>
+	<li>  Email: <a href="mailto:jchen@caltech.edu">jchen at caltech.edu </a>
+	</li>
+	<li> Office: Annerberg 325, Caltech
+		</li>
+</ul>
+
+<br />
+
 <!-- <hr width="820" /> -->
 
 <div id="header" style="width: 120%;">

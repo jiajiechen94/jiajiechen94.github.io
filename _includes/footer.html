@@ -37,7 +37,7 @@
               src="{{ follow_icon_path }}"
               alt="{{ follow.name | downcase }}"
             />
-            <font size="14px">
+
             <a href="{{ follow.link }}">
               {% if follow.value and follow.value != "" and follow.value != nil %}
                 {{ follow.value }}
@@ -45,7 +45,6 @@
                 {{ follow.name }}
               {% endif %}
             </a>
-          </font>
           </span>
 
           {% assign mod = forloop.index | modulo: 2 %} {% if mod == 0 %}
