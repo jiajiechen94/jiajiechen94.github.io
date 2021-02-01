@@ -28,12 +28,12 @@ footer:
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
-  follow:
+  # follow:
     # - name: Twitter
     #   link: http://twitter.com/YourTwitterUsername
     #   username: "@YourTwitterUsername"
-    - name: Facebook
-      link: https://www.facebook.com/Jiajie.CChen
+    # - name: Facebook
+    #   link: https://www.facebook.com/Jiajie.CChen
     # - name: LinkedIn
     #   link: http://linkedin.com/in/YourLinkedInUsername
     # - name: GitHub
