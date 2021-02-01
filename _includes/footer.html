@@ -11,6 +11,8 @@
             src="{{ contact_icon_path }}"
             alt="{{ contact.name | downcase }}"
           />
+
+          <font size="+1">
           <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
             {% if contact.value and contact.value != "" and contact.value != nil %}
               {{ contact.value }}
@@ -18,6 +20,7 @@
               {{ contact.name }}
             {% endif %}
           </a>
+        </font>
           <br />
 
         {% endfor %}
@@ -34,6 +37,7 @@
               src="{{ follow_icon_path }}"
               alt="{{ follow.name | downcase }}"
             />
+            <font size="+1">
             <a href="{{ follow.link }}">
               {% if follow.value and follow.value != "" and follow.value != nil %}
                 {{ follow.value }}
@@ -41,6 +45,7 @@
                 {{ follow.name }}
               {% endif %}
             </a>
+          </font>
           </span>
 
           {% assign mod = forloop.index | modulo: 2 %} {% if mod == 0 %}
@@ -52,9 +57,11 @@
 
       {% if site.footer.show_powered_by == true %}
         <div class="footer-col footer-col-3 powered-by">
+          <font size="+1">
           <p>
             powered by <a href="https://github.com/eliottvincent/bay">Bay</a> | {{ 'now' | date: "%Y" }}
           </p>
+        </font>
         </div>
       {% endif %}
     </div>
