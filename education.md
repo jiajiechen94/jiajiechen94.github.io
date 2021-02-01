@@ -4,7 +4,7 @@ title: Education
 slug: /education
 ---
 
-<div id="header" style="width: 120%;">
+<div id="header" style="width: 115%;">
     <div id="centered" style="margin: 0 auto; width: 110%;"></div>
 
 <font size="+1">	
@@ -28,8 +28,8 @@ slug: /education
 <div id="header" style="width: 120%;">
     <div id="centered" style="margin: 0 auto; width: 110%;"></div>
 
-<h2>Teaching Experiences</h2>
-<h3>Teaching Assistant at Caltech </h3>
+<h1>Teaching Experiences</h1>
+<h2>Teaching Assistant at Caltech </h2>
 <font size="+1">	
  <ul> 	
  	 <li> <b> ACM 217</b>. Advanced Topics in Stochastic Analysis. 2021 Winter.  </li> 	
