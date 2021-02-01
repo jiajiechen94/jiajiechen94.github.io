@@ -12,7 +12,7 @@
             alt="{{ contact.name | downcase }}"
           />
 
-          <font size="+0.5">
+<!--           <font size="+0.5"> -->
           <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
             {% if contact.value and contact.value != "" and contact.value != nil %}
               {{ contact.value }}
@@ -20,7 +20,7 @@
               {{ contact.name }}
             {% endif %}
           </a>
-        </font>
+<!--         </font> -->
           <br />
 
         {% endfor %}
