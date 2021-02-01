@@ -11,7 +11,7 @@ slug: /research
 	<p>
 I am currently working on singularity formation in incompressible fluids and related models. My research is mainly inspired by the <a href="https://epubs.siam.org/doi/abs/10.1137/140966411?casa_token=Y0eX6v3eniwAAAAA:B9ygxRkZfbmDWPqERqgsCZR0c8afkstbU2y_HuRpfY78PisAlTk69XHkUAbnOvho63kCHyGl">Hou-Luo scenario </a>for a potential finite-time singularity of 3D incompressible Euler equations. An excellent survey on this direction can be found in  <i><a href="https://www.quantamagazine.org/for-fluid-equations-a-steady-flow-of-progress-20200113/">Quanta Magazine.</a></i> </p>
 
-<p> I have also worked on Calculus of Variations and probability related problems. </p>
+<p> I have also worked on calculus of variations and probability related problems. </p>
 </font>
 
 </div>
