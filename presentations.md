@@ -15,6 +15,7 @@ slug: /presentations
 
  <h3>2020 </h3>
 
+  <li> Differential Equations seminar, University of Michigan, Jan 2020.  </li>
 
   <h3> 2019 </h3>
 
