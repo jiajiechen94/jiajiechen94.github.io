@@ -35,7 +35,7 @@ I am interested in partial differential equations. Currently, I am working on si
 	  </li>
 
 <li>
-	Finite time blowup of 2D Boussinesq and 3D Euler equations with $C^{1,\alpha}$ velocity and boundary. Jiajie Chen, Thomas Y. Hou, 2019. <i>To appear in CPAM. </i> <a href="https://arxiv.org/abs/1910.00173">[arXiv]</a>
+	Finite time blowup of 2D Boussinesq and 3D Euler equations with $C^{1,\alpha}$ velocity and boundary. Jiajie Chen, Thomas Y. Hou, 2019. <i>To appear in CMP. </i> <a href="https://arxiv.org/abs/1910.00173">[arXiv]</a>
 	  </li>
 
   <li>
