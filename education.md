@@ -44,6 +44,7 @@ slug: /education
 <h2>Teaching Assistant at Caltech </h2>
 <font size="+1">	
  <ul> 	
+   <li> <b> ACM 109</b>. Mathematical Modelling. Spring 2021.  </li>  
  	 <li> <b> ACM 217</b>. Advanced Topics in Stochastic Analysis. Winter 2021.  </li> 	
  	 <li> <b> ACM 204</b>. Randomized algorithms for linear algebra. Winter 2020.  </li> 	 
  	<li> <b>CMS/ACM 117.</b> Probability Theory and Stochastic Processes. Fall 2019, Fall 2020.  </li> 	 	
