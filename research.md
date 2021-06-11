@@ -29,13 +29,17 @@ I am interested in partial differential equations. Currently, I am working on si
 <h1>Publications</h1>
 <font size="+1">
 <ul>
+  <li>
+    Asymptotically self-similar blowup of the Hou-Luo model for the 3D Euler equations. Jiajie Chen, Thomas Y. Hou, De Huang, 2021. <a href="https://arxiv.org/abs/2106.05422">[arXiv]</a> 
+	  </li>
+
    <li>
-	On the Slightly Perturbed De Gregorio Model on $S^1$. Jiajie Chen, 2020.
+	On the Slightly Perturbed De Gregorio Model on $S^1$. Jiajie Chen, 2020. <i>To appear in ARMA.</i>
 	<a href="https://arxiv.org/abs/2010.12700">[arXiv]</a> 
 	  </li>
 
 <li>
-	Finite time blowup of 2D Boussinesq and 3D Euler equations with $C^{1,\alpha}$ velocity and boundary. Jiajie Chen, Thomas Y. Hou, 2019. <i>To appear in CMP. </i> <a href="https://arxiv.org/abs/1910.00173">[arXiv]</a>
+	Finite time blowup of 2D Boussinesq and 3D Euler equations with $C^{1,\alpha}$ velocity and boundary. Jiajie Chen, Thomas Y. Hou, <i>Comm. Math. Phys. 383 (2021), no. 3, 1559–1667.</i> <a href="https://arxiv.org/abs/1910.00173">[arXiv]</a>
 	  </li>
 
   <li>
@@ -44,7 +48,7 @@ I am interested in partial differential equations. Currently, I am working on si
 	  </li>
 	
 <li>
-	On the finite time blowup of the De Gregorio model for the 3D Euler equation. Jiajie Chen, Thomas Y. Hou, De Huang, 2019. <i>To appear in CPAM. </i> <a href="https://arxiv.org/abs/1905.06387">[arXiv]</a> 
+	On the finite time blowup of the De Gregorio model for the 3D Euler equation. Jiajie Chen, Thomas Y. Hou, De Huang, <i>Comm. Pure Appl. Math. 74 (2021), no. 6, 1282–1350. </i> <a href="https://arxiv.org/abs/1905.06387">[arXiv]</a> 
 </li>
 
  <li>
