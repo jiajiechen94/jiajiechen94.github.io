@@ -30,11 +30,16 @@ I am interested in partial differential equations. Currently, I am working on si
 <font size="+1">
 <ul>
   <li>
+    On the regularity of the De Gregorio model for the 3D Euler equations. Jiajie Chen, 2021. <a href="
+    https://arxiv.org/abs/2107.04777">[arXiv]</a> 
+	  </li>
+
+  <li>
     Asymptotically self-similar blowup of the Hou-Luo model for the 3D Euler equations. Jiajie Chen, Thomas Y. Hou, De Huang, 2021. <a href="https://arxiv.org/abs/2106.05422">[arXiv]</a> 
 	  </li>
 
    <li>
-	On the Slightly Perturbed De Gregorio Model on $S^1$. Jiajie Chen, 2020. <i>To appear in ARMA.</i>
+	On the Slightly Perturbed De Gregorio Model on $S^1$. Jiajie Chen, <i> Arch. Rational Mech. Anal. 241, 1843–1869 (2021).</i>
 	<a href="https://arxiv.org/abs/2010.12700">[arXiv]</a> 
 	  </li>
 
