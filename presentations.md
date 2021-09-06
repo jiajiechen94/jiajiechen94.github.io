@@ -14,6 +14,8 @@ slug: /presentations
 <ul>
 
    <h3> 2021 </h3>
+        <li> PDE Seminar, Seoul National University (online), Aug 2021.</li>
+      <li> Chinese Webinar on Analysis & PDE, Aug 2021.</li>
     <li> Student-Run Analysis & PDE, University of California, Davis (online), Jan 2021. </li>
 
    <br />
