@@ -14,15 +14,17 @@ slug: /presentations
 <ul>
 
    <h3> 2021 </h3>
-        <li> PDE Seminar, Seoul National University (online), Aug 2021. </li>
-      <li> Chinese Webinar on Analysis & PDE, Aug 2021. </li>
+           <li> Applied Math Seminar, University of New Mexico (online), Sep 2021.</li>
+        <li> Computational and Applied Math Ph.D. Students Workshop, Peking University (online), Sep 2021 .</li>
+        <li> PDE Seminar, Seoul National University (online), Aug 2021.</li>
+      <li> Chinese Webinar on Analysis & PDE, Aug 2021.</li>
     <li> Student-Run Analysis & PDE, University of California, Davis (online), Jan 2021. </li>
 
    <br />
 
  <h3>2020 </h3>
 
-  <li>  Analysis seminar,  Korea Institute for Advanced Study (online), Dec 2020. </li>
+  <li>  Analysis seminar, Korea Institute for Advanced Study (online), Dec 2020. </li>
    <li>  PDE Seminar, University of Minnesota (online), Nov 2020. </li> 
    <li> Mathematical Research Seminar, Duke Kunshan University (online), Nov 2020.  </li>
   <li> Differential Equations seminar, University of Michigan, Jan 2020.  </li>
