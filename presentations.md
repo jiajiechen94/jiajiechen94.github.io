@@ -14,6 +14,7 @@ slug: /presentations
 <ul>
 
    <h3> 2021 </h3>
+   <li>  Applied Math & Analysis Seminar, Duke University, Nov 2021. </li>
    <li> CMX Student and Postdoc Seminar, Caltech, Oct 2021. </li>
            <li> Applied Math Seminar, University of New Mexico (online), Sep 2021.</li>
         <li> Computational and Applied Math Ph.D. Students Workshop, Peking University (online), Sep 2021 .</li>
