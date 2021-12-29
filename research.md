@@ -31,7 +31,7 @@ I am interested in partial differential equations. Currently, I am working on si
 <ul>
   <li>
     On the regularity of the De Gregorio model for the 3D Euler equations. Jiajie Chen, 
-</i> to appear in J. Eur. Math. Soc., 2021.</li> <a href="https://arxiv.org/abs/2107.04777">[arXiv]</a> 
+<i> to appear in J. Eur. Math. Soc., 2021.</i> <a href="https://arxiv.org/abs/2107.04777">[arXiv]</a> 
 	  </li>
 
   <li>
