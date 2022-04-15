@@ -13,6 +13,13 @@ slug: /presentations
 
 <ul>
 
+
+   <h3> 2022 </h3>
+   <li>  Workshop on recent developments in incompressible fluid dynamics, Institute for Advanced Study, Apr 2022.  </li>
+      <li>  PDE Seminar, University of Minnesota, Mar 2022. </li> 
+
+   <br />
+
    <h3> 2021 </h3>
    <li>  Applied Math & Analysis Seminar, Duke University, Nov 2021. </li>
    <li> CMX Student and Postdoc Seminar, Caltech, Oct 2021. </li>
