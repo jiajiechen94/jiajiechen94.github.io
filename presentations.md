@@ -13,8 +13,9 @@ slug: /presentations
 
 <ul>
 
-
    <h3> 2022 </h3>
+           <li>  Stanford Applied Math Seminar, Stanford University (online), Apr 2022. </li>    
+        <li>  Caltech/UCLA/USC Joint Analysis Seminar, Caltech, Apr 2022. </li>    
    <li>  Workshop on recent developments in incompressible fluid dynamics, Institute for Advanced Study, Apr 2022.  </li>
       <li>  PDE Seminar, University of Minnesota, Mar 2022. </li> 
 
