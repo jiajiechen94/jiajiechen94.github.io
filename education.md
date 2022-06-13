@@ -9,7 +9,7 @@ slug: /education
 
 <font size="+1">	
 <ul>
-  <li>Ph.D. in Applied and Computational Mathematics, 2017-present</li>
+  <li>Ph.D. in Applied and Computational Mathematics, 2017-2022 </li>
     <p><i> <a href="https://www.cms.caltech.edu">Dept. of Computing + Mathematical Sciences, Caltech  </a></i> </p>
 
   <li> B.S. in Mathematics, 2013-2017 </li>
