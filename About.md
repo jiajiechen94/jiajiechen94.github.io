@@ -1,7 +1,7 @@
 ---
 layout: research
 title: About
-slug: /education
+slug: /about
 ---
 
 <div id="header" style="width: 115%;">
