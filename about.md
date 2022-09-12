@@ -95,4 +95,4 @@ slug: /about
  	<li> <b> ACM 106a.</b> Introductory Methods of Computational Mathematics. Fall 2018. </li>
  </ul>
 </font>
-</div>
+<!-- </div> -->
