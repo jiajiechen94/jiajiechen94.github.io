@@ -78,7 +78,8 @@ slug: /about
    <li> UMN Summer Workshop on Analysis of PDEs, IMA, University of Minnesota. Summer 2022.  </li>  
  </ul>
 </font>
-</div>
+
+<!-- </div> -->
 
 
 
