@@ -14,6 +14,8 @@ slug: /presentations
 <ul>
 
    <h3> 2022 </h3>
+<li> Invited lecturer of UMN Summer Workshop on Analysis of PDEs,  IMA, University of Minnesota, Jul 2022. </li>
+ <li>  AIM Square: Towards a 3D Euler singularity,  AIM, San Jose,   Jul 2022. </li>
            <li>  Stanford Applied Math Seminar, Stanford University (online), Apr 2022. </li>    
         <li>  Caltech/UCLA/USC Joint Analysis Seminar, Caltech, Apr 2022. </li>    
    <li>  Workshop on recent developments in incompressible fluid dynamics, Institute for Advanced Study, Apr 2022.  </li>
@@ -24,8 +26,8 @@ slug: /presentations
    <h3> 2021 </h3>
    <li>  Applied Math & Analysis Seminar, Duke University, Nov 2021. </li>
    <li> CMX Student and Postdoc Seminar, Caltech, Oct 2021. </li>
-           <li> Applied Math Seminar, University of New Mexico (online), Sep 2021.</li>
-        <li> Computational and Applied Math Ph.D. Students Workshop, Peking University (online), Sep 2021 .</li>
+           <li> Applied Math Seminar, University of New Mexico (online), Sept 2021.</li>
+        <li> Computational and Applied Math Ph.D. Students Workshop, Peking University (online), Sept 2021 .</li>
         <li> PDE Seminar, Seoul National University (online), Aug 2021.</li>
       <li> Chinese Webinar on Analysis & PDE, Aug 2021.</li>
     <li> Student-Run Analysis & PDE, University of California, Davis (online), Jan 2021. </li>
@@ -49,9 +51,10 @@ slug: /presentations
    
    <li>Analysis and PDE Seminar, University of California, San Diego, Nov 2019. </li>
 
-  <li>Analysis and PDE Seminar, Peking University, Beijing, China, Sep 2019. </li>
+  <li>Analysis and PDE Seminar, Peking University, Beijing, China, Sept 2019. </li>
 
-<li> Workshop on “Towards a 3D Euler singularity”, AIM, San Jose, CA, Aug 2019. </li>
+ <li>  AIM Square: Towards a 3D Euler singularity,  AIM, San Jose,   Aug 2019. </li>
+
 
  <li> Workshop on Fluid turbulence and Singularities of the Euler/ Navier Stokes equations,
 Harvard University, Mar 2019. </li>

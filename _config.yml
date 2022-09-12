@@ -1,8 +1,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Jiajie Chen | Caltech 
-description: Jiajie Chen | Caltech 
+title: Jiajie Chen | Courant 
+description: Jiajie Chen | Courant
 # >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of the site
 url: "https://jiajiechen94.github.io" # the base hostname & protocol for the site
@@ -11,9 +11,9 @@ og_image: /assets/img/profile-pic.jpg
 
 header:
   pages:
-    - name: About
+    - name: Home
       slug: /
-    - name: Education
+    - name: About
     - name: Research
     - name: Presentations
     - name: <a class ="page-link" href="/assets/CV.pdf">CV</a> 
@@ -23,8 +23,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: jchen at caltech.edu
-      link: mailto:jchen@caltech.edu      
+      value: jiajie.chen at cims.nyu.edu
+      link: mailto:jiajie.chen@cims.nyu.edu      
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
