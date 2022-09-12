@@ -56,8 +56,8 @@ slug: /about
 
 <!-- <hr width="820" /> -->
 
-<div id="header" style="width: 120%;">
-    <div id="centered" style="margin: 0 auto; width: 110%;"></div>
+<div id="header" style="width: 125%;">
+    <div id="centered" style="margin: 0 auto; width: 115%;"></div>
 
 <h1>Teaching</h1>
 
@@ -75,7 +75,7 @@ slug: /about
 <h2>Instructor at other institutes</h2>
 <font size="+1">  
  <ul>   
-   <li> UMN Summer Workshop on Analysis of PDEs, IMA, University of Minnesota. Summer 2022.  </li>  
+   <li> Summer Workshop on Analysis of PDEs, IMA, University of Minnesota. Summer 2022.  </li>  
  </ul>
 </font>
 
