@@ -1,6 +1,6 @@
 ---
 layout: research
-title: About
+<!-- title: About -->
 slug: /about
 ---
 
