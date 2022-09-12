@@ -45,7 +45,8 @@ slug: /about
 <ul>
 	<li>  Email: <a href="mailto:jchen@caltech.edu">jiajie DOT chen AT cims.nyu.edu </a>
 	</li>
-	<li> Office:  <a href="https://www.caltech.edu/map/campus">WWH 619</a>, NYU Courant 
+    <li> Office: WWH 619, NYU Courant 
+<!-- 	<li> Office:  <a href="https://www.caltech.edu/map/campus">WWH 619</a>, NYU Courant  -->
 		</li>		
 </ul>
 </font>
