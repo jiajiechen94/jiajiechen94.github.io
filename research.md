@@ -29,7 +29,11 @@ I am interested in partial differential equations. Currently, I am working on si
 <h1>Publications</h1>
 <font size="+1">
 <ul>
-	  <li>
+	<li>
+	 Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data. Jiajie Chen, Thomas Y. Hou, 2022.<a href="https://arxiv.org/abs/2210.07191" >[arXiv]</a>
+</li>
+
+<li>
 On stability and instability of $C^{1,\alpha}$ singular solutions to the 3D Euler and 2D Boussinesq equations. Jiajie Chen, Thomas Y. Hou, 2022.  <a href="https://arxiv.org/abs/2206.01296">[arXiv]</a> 
 	  </li>
 
@@ -39,7 +43,8 @@ On stability and instability of $C^{1,\alpha}$ singular solutions to the 3D Eule
 	  </li>
 
   <li>
-    Asymptotically self-similar blowup of the Hou-Luo model for the 3D Euler equations. Jiajie Chen, Thomas Y. Hou, De Huang, 2021. <a href="https://arxiv.org/abs/2106.05422">[arXiv]</a> 
+    Asymptotically self-similar blowup of the Hou-Luo model for the 3D Euler equations. Jiajie Chen, Thomas Y. Hou, De Huang, 
+<i>Ann. PDE 8, 24 (2022). https://doi.org/10.1007/s40818-022-00140-7. </i> <a href="https://arxiv.org/abs/2106.05422">[arXiv]</a> 
 	  </li>
 
    <li>
