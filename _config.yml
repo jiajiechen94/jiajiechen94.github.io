@@ -16,7 +16,9 @@ header:
       slug: /
     - name: About
     - name: Research
-    - name: Presentations
+    - name: Talks
+    - name: Codes 
+    # - name: Presentations
     - name: <a class ="page-link" href="/assets/CV.pdf">CV</a> 
 
 
