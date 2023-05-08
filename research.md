@@ -20,7 +20,7 @@ I am interested in partial differential equations. Currently, I am working on si
 
 <!-- <hr width="820" /> -->
 
-<br />
+<!-- <br />
 
 <div id="header" style="width: 115%;">
     <div id="centered" style="margin: 0 auto; width: 110%;"></div>
@@ -31,7 +31,7 @@ The Matlab code for "Stable nearly self-similar blowup of the 2D Boussinesq and 
 </p>
 
 </font>
-</div>
+</div> -->
 
 
 
