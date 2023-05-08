@@ -1,7 +1,9 @@
 ---
 layout: research
-title: Presentations
-slug: /presentations
+title: Talks
+slug: /talks
+<!-- title: Presentations
+slug: /presentations -->
 ---
 
 
