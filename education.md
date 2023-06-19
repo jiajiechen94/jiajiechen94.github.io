@@ -64,7 +64,7 @@ slug: /education
 <h2>Instructor at New York University </h2>
 <font size="+1">  
  <ul>   
-   <li> <b> MATH-UA 262 </b>.  Ordinary Differential Equations. Fall 2022.  </li>  
+   <li> <b> MATH-UA 262 </b>.  Ordinary Differential Equations. Fall 2022, Spring 2023  </li>  
  </ul>
 </font>
 </div>

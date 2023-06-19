@@ -9,9 +9,8 @@ slug: /research
 
 <font size="+1">
 	<p>
-I am interested in partial differential equations. Currently, I am working on singularity formation in incompressible fluids and related models. My research is inspired by the <a href="https://epubs.siam.org/doi/abs/10.1137/140966411?casa_token=Y0eX6v3eniwAAAAA:B9ygxRkZfbmDWPqERqgsCZR0c8afkstbU2y_HuRpfY78PisAlTk69XHkUAbnOvho63kCHyGl">Hou-Luo scenario </a>for a potential finite-time singularity of 3D incompressible Euler equations. An excellent survey on this direction can be found in  <i><a href="https://www.quantamagazine.org/for-fluid-equations-a-steady-flow-of-progress-20200113/">Quanta Magazine.</a></i> </p>
+I am interested in partial differential equations. Currently, I am working on singularity formation in incompressible fluids and related models. My research has been inspired by the <a href="https://epubs.siam.org/doi/abs/10.1137/140966411?casa_token=Y0eX6v3eniwAAAAA:B9ygxRkZfbmDWPqERqgsCZR0c8afkstbU2y_HuRpfY78PisAlTk69XHkUAbnOvho63kCHyGl">Hou-Luo scenario </a>for a potential finite-time singularity of 3D incompressible Euler equations. An excellent survey on this direction can be found in  <i><a href="https://www.quantamagazine.org/for-fluid-equations-a-steady-flow-of-progress-20200113/">Quanta Magazine.</a></i> </p>.
 
-<p> I have also worked on calculus of variations and probability related problems. </p>
 </font>
 
 </div>
@@ -44,12 +43,16 @@ The Matlab code for "Stable nearly self-similar blowup of the 2D Boussinesq and 
 <h1>Publications</h1>
 <font size="+1">
 <ul>
-	<li>
-	 Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data. Jiajie Chen, Thomas Y. Hou, 2022.<a href="https://arxiv.org/abs/2210.07191" >[arXiv]</a>
+<li>
+Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data II: Rigorous Numerics.
+Jiajie Chen, Thomas Y. Hou. Submitted, 2023.<a href="https://arxiv.org/abs/2305.05660" >[arXiv]</a>
 </li>
 
 <li>
-On stability and instability of $C^{1,\alpha}$ singular solutions to the 3D Euler and 2D Boussinesq equations. Jiajie Chen, Thomas Y. Hou, 2022.  <a href="https://arxiv.org/abs/2206.01296">[arXiv]</a> 
+	 Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data I: Analysis. Jiajie Chen, Thomas Y. Hou. Submitted, 2023.<a href="https://arxiv.org/abs/2210.07191" >[arXiv]</a>
+</li>
+
+<li> On stability and instability of $C^{1,\alpha}$ singular solutions to the 3D Euler and 2D Boussinesq equations. Jiajie Chen, Thomas Y. Hou. Submitted, 2022.  <a href="https://arxiv.org/abs/2206.01296">[arXiv]</a> 
 	  </li>
 
   <li>
