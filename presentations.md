@@ -7,7 +7,6 @@ slug: /presentations -->
 ---
 
 
-
 <div id="header" style="width: 120%;">
     <div id="centered" style="margin: 0 auto; width:110%;"></div>
 
