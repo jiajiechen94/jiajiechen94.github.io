@@ -14,19 +14,6 @@ slug: /presentations -->
 
 <ul>
 
-   <h3> 2023 </h3>
-      <li>Forum for Young Mathematicians,  Shenzhen University,  June 2023.   </li>
-      <li>IMS PDE Seminar,  Chinese University of Hong Kong,  June 2023.   </li>
-      <li>Conference on Recent Advances in Mathematical Fluid Dynamics,  Duke University,  May 2023.  </li>
-       <li>PDE and Applied Math Seminar,  University of California, Davis (online),  Apr 2023.  </li>
-      <li>Loo-Keng Hua Forum for Young Mathematicians,  AMSS, Chinese Academic of Science (Online),  Apr 2023.  </li>
-       <li>Applied Math & Analysis Seminar,  Duke University,  Mar 2023.   </li>
-      <li>PDE Seminar,  Penn State University,    Mar 2023.  </li>
-      <li>AMS Southeastern Sectional Meeting,  Georgia Tech,    Mar 2023.  </li>
-      <li>Nonlinear Analysis Seminar ,   Rutgers University,  Mar 2023.  </li>
-      <li>Chinese Webinar on Analysis & PDE,  Feb 2023.  </li>
-   <br />
-
    <h3> 2022 </h3>
      <li> School Colloquium, Peking University (online),  Dec 2022.   </li>
      <li> IMS PDE Seminar, Chinese University of Hong Kong (online),  Dec 2022.    </li>
