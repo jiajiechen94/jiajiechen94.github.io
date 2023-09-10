@@ -14,8 +14,14 @@ slug: /presentations -->
 <font size="+1">
 
 <ul>
-
   <h3> 2023 </h3>
+  <li> Minisymposium on Recent Developments in Fluid Dynamics, ICIAM 2023 Tokyo (online),  Aug 2023 </li>
+  <li> Workshop on Scientific Computing, Institute of Computational Mathematics and Scientific Engineering Computing, Chinese Academy of Sciences, Aug 2023. </li>
+  <li> PDE Seminar, Southern University of Science and Technology, China, July 2023. </li>
+  <li> PDE Seminar, Zhejiang University, July 2023. </li>
+  <li> Workshop on Recent Advances in PDEs (XIV), Shanghai Jiaotong University,  July 2023. </li>
+  <li> Loo-Keng Hua Forum for Young Mathematicians, Lecture II & III, AMSS, Chinese Academic of Science, June, July 2023. </li>
+   <li> Series of lectures, School of Mathematical Sciences, Peking University,  June 2023. </li>
       <li>Forum for Young Mathematicians,  Shenzhen University,  June 2023.   </li>
       <li>IMS PDE Seminar,  Chinese University of Hong Kong,  June 2023.   </li>
       <li>Conference on Recent Advances in Mathematical Fluid Dynamics,  Duke University,  May 2023.  </li>
