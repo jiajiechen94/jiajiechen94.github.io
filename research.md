@@ -45,8 +45,14 @@ The Matlab code for "Stable nearly self-similar blowup of the 2D Boussinesq and 
 <h1>Publications</h1>
 <font size="+1">
 <ul>
+
 <li>
-Remarks on the smoothness of the $ C^{1,\alpha} $ asymptotically self-similar singularity in the 3D Euler and 2D Boussinesq equations. Jiajie Chen, 2023. <a href="https://arxiv.org/abs/2309.00150" >[arXiv]</a>
+Nearly self-similar blowup of the slightly perturbed homogeneous Landau equation with very soft potentials. 
+JIajie Chen, 2023. <a href="https://arxiv.org/abs/2311.11511" >[arXiv]</a>
+</li>
+
+<li>
+Remarks on the smoothness of the $ C^{1,\alpha} $ asymptotically self-similar singularity in the 3D Euler and 2D Boussinesq equations. Jiajie Chen. Submitted, 2023.<a href="https://arxiv.org/abs/2309.00150" >[arXiv]</a>
 </li>
 
 <li>
