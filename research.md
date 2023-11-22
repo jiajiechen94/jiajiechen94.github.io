@@ -104,12 +104,35 @@ Jiajie Chen, Thomas Y. Hou. Submitted, 2023.<a href="https://arxiv.org/abs/2305.
 A pseudo knockoff filter for correlated features. Jiajie Chen, Anthony Hou, Thomas Y. Hou, <i>Inf. Inference 8 (2019), no. 2, 313–341.</i> <a href="https://arxiv.org/abs/1708.09305">[arXiv]</a> 
 </li>
 
- <li>A Prototype Knockoff Filter for Group Selection with FDR Control.Jiajie Chen, Anthony Hou, Thomas Y. Hou, <i>Inf. Inference 9 (2020), no. 2, 271–288.</i> <a href="https://arxiv.org/abs/1706.03400">[arXiv]</a> 
+ <li>A Prototype Knockoff Filter for Group Selection with FDR Control. Jiajie Chen, Anthony Hou, Thomas Y. Hou, <i>Inf. Inference 9 (2020), no. 2, 271–288.</i> <a href="https://arxiv.org/abs/1706.03400">[arXiv]</a> 
 </li>
 
-  <li>Local minimizer and De Giorgi’s type conjecture for the isotropic–nematic interface problem.Jiajie Chen, Pingwen Zhang, Zhifei Zhang, <i>Calc. Var. Partial Differential Equations 57 (2018), no. 5, Paper No. 129, 19 pp.</i><a href="https://link.springer.com/article/10.1007/s00526-018-1404-0">[Journal]</a> 
+  <li>Local minimizer and De Giorgi’s type conjecture for the isotropic–nematic interface problem. Jiajie Chen, Pingwen Zhang, Zhifei Zhang, <i>Calc. Var. Partial Differential Equations 57 (2018), no. 5, Paper No. 129, 19 pp.</i><a href="https://link.springer.com/article/10.1007/s00526-018-1404-0">[Journal]</a> 
 </li>
 
+
+</ul>
+</font>
+
+</div>
+
+<br />
+
+
+
+<br />
+
+<div id="header" style="width: 115%;">
+    <div id="centered" style="margin: 0 auto; width: 110%;"></div>
+
+<h1>Thesis</h1>
+<font size="+1">
+<ul>
+
+  <li>
+Singularity Formation in Incompressible Fluids and Related Models. Jiajie Chen, Ph.D. Dissertation (2022), California Institute of Technology. <a href="https://resolver.caltech.edu/CaltechTHESIS:05172022-223804694">[Pdf]</a> 
+</li>
+<!-- doi:10.7907/nqff-dh92.  -->
 
 </ul>
 </font>
