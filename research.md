@@ -53,7 +53,7 @@ The Matlab code for "Stable nearly self-similar blowup of the 2D Boussinesq and 
 
 <li>
 Nearly self-similar blowup of the slightly perturbed homogeneous Landau equation with very soft potentials. 
-JIajie Chen, 2023. <a href="https://arxiv.org/abs/2311.11511" >[arXiv]</a>
+JIajie Chen. Submitted, 2023. <a href="https://arxiv.org/abs/2311.11511" >[arXiv]</a>
 </li>
 
 <li>

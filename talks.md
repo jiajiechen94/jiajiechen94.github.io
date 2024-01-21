@@ -15,6 +15,11 @@ slug: /presentations -->
 
 <ul>
   <h3> 2023 </h3>
+  <li> Calderon-Zygmund Analysis Seminar, University of Chicago, Nov 2023 <li>  
+   <li> International Workshop on Recent Developments in Applied Mathematics and its Applications, 
+    Caltech, Nov 2023 <li>
+   <li> "Infinite dimensional Geometry and Fluids" workshop, Banff (BIRS), Nov 2023 <li>
+   <li> Analysis Seminar, University of Rochester, Sep 2023 </li> 
   <li> Minisymposium on Recent Developments in Fluid Dynamics, ICIAM 2023 Tokyo (online),  Aug 2023 </li>
   <li> Workshop on Scientific Computing, Institute of Computational Mathematics and Scientific Engineering Computing, Chinese Academy of Sciences, Aug 2023. </li>
   <li> PDE Seminar, Southern University of Science and Technology, China, July 2023. </li>
@@ -28,7 +33,7 @@ slug: /presentations -->
        <li>PDE and Applied Math Seminar,  University of California, Davis (online),  Apr 2023.  </li>
       <li>Loo-Keng Hua Forum for Young Mathematicians,  AMSS, Chinese Academic of Science (Online),  Apr 2023.  </li>
        <li>Applied Math & Analysis Seminar,  Duke University,  Mar 2023.   </li>
-      <li>PDE Seminar,  Penn State University,    Mar 2023.  </li>
+      <li>PDE Seminar,  Penn State University,  Mar 2023.  </li>
       <li>AMS Southeastern Sectional Meeting,  Georgia Tech,    Mar 2023.  </li>
       <li>Nonlinear Analysis Seminar ,   Rutgers University,  Mar 2023.  </li>
       <li>Chinese Webinar on Analysis & PDE,  Feb 2023.  </li>
