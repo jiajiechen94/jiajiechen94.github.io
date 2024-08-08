@@ -10,9 +10,10 @@ slug: /research
 <font size="+1">
 	<p> 
 
-My research focuses on singularity formation in nonlinear PDEs. 
-A significant portion of my work has been devoted to the  <a href="https://epubs.siam.org/doi/abs/10.1137/140966411?casa_token=Y0eX6v3eniwAAAAA:B9ygxRkZfbmDWPqERqgsCZR0c8afkstbU2y_HuRpfY78PisAlTk69XHkUAbnOvho63kCHyGl">Hou-Luo scenario </a>for a potential finite-time singularity of 3D incompressible Euler equations. 
-
+My research focuses on singularity formation in nonlinear PDEs. A significant portion of my work has been devoted to the  <a href="https://epubs.siam.org/doi/abs/10.1137/140966411?casa_token=Y0eX6v3eniwAAAAA:B9ygxRkZfbmDWPqERqgsCZR0c8afkstbU2y_HuRpfY78PisAlTk69XHkUAbnOvho63kCHyGl">Hou-Luo scenario </a>for a potential finite-time singularity of 3D incompressible Euler equations. See the reports 
+ <i><a href="https://www.quantamagazine.org/for-fluid-equations-a-steady-flow-of-progress-20200113/">[1]</a></i>
+ <i><a href="https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/">[2]</a></i>
+in the Quanta Magazine. 
 <!--  Nov 21, 2023 update		
 I am interested in partial differential equations. Currently, I am working on singularity formation in incompressible fluids and related models. My research has been inspired by the <a href="https://epubs.siam.org/doi/abs/10.1137/140966411?casa_token=Y0eX6v3eniwAAAAA:B9ygxRkZfbmDWPqERqgsCZR0c8afkstbU2y_HuRpfY78PisAlTk69XHkUAbnOvho63kCHyGl">Hou-Luo scenario </a>for a potential finite-time singularity of 3D incompressible Euler equations.  -->
 <!-- An excellent survey on this direction can be found in  <i><a href="https://www.quantamagazine.org/for-fluid-equations-a-steady-flow-of-progress-20200113/">Quanta Magazine.</a></i>  -->
