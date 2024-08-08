@@ -14,6 +14,15 @@ slug: /presentations -->
 <font size="+1">
 
 <ul>
+  <h3> 2024 </h3>
+<!--    <li> PDE seminar,  Peking University,  July 2024. </li>
+   <li> PDE seminar,  AMSS, Chinese Academic of Science, July 2024. </li>
+   <li> Singularities in incompressible flows: computer-assisted proofs and physics-informed neural networks, University of Minnesota, Apr 2024  </li> -->
+   <li> PDE seminar, AMSS, Chinese Academic of Science (Online), Apr 2024. </li>
+   <li> Analysis & PDE Seminar, UCLA, March 2024. </li>
+   <li> PDE-applied math seminar, University of Maryland,  Feb 2024  </li>
+   <li> Analysis seminar, University of Texas at Austin, Jan 2024  </li>
+
   <h3> 2023 </h3>
   <li> Calderon-Zygmund Analysis Seminar, University of Chicago, Nov 2023 </li>  
    <li> International Workshop on Recent Developments in Applied Mathematics and its Applications, 
