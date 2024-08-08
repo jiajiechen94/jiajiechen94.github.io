@@ -71,7 +71,7 @@ Jiajie Chen. Submitted, 2023. <a href="https://arxiv.org/abs/2311.11511" >[arXiv
 
 
 <li>
-Remarks on the smoothness of the $ C^{1,\alpha} $ asymptotically self-similar singularity in the 3D Euler and 2D Boussinesq equations. Jiajie Chen, <i>>Nonlinearity 37.6 (2024): 065018.</i>
+Remarks on the smoothness of the $ C^{1,\alpha} $ asymptotically self-similar singularity in the 3D Euler and 2D Boussinesq equations. Jiajie Chen, <i>Nonlinearity 37.6 (2024): 065018.</i>
 <a href="https://arxiv.org/abs/2309.00150" >[arXiv]</a>
 </li>
 
@@ -84,7 +84,7 @@ Jiajie Chen, Thomas Y. Hou. Submitted, 2023.<a href="https://arxiv.org/abs/2305.
 	 Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data I: Analysis. Jiajie Chen, Thomas Y. Hou. Submitted, 2023.<a href="https://arxiv.org/abs/2210.07191" >[arXiv]</a>
 </li>
 
-<li> On stability and instability of $C^{1,\alpha}$ singular solutions to the 3D Euler and 2D Boussinesq equations. Jiajie Chen, Thomas Y. Hou, <i>>Comm. Math. Phys. 405 (2024), no. 5, Paper No. 112, 53 pp. </i>
+<li> On stability and instability of $C^{1,\alpha}$ singular solutions to the 3D Euler and 2D Boussinesq equations. Jiajie Chen, Thomas Y. Hou, <i>Comm. Math. Phys. 405 (2024), no. 5, Paper No. 112, 53 pp. </i>
 <a href="https://arxiv.org/abs/2206.01296">[arXiv]</a> 
 	</li>
 

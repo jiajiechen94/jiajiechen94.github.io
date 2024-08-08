@@ -22,6 +22,7 @@ slug: /presentations -->
    <li> Analysis & PDE Seminar, UCLA, March 2024. </li>
    <li> PDE-applied math seminar, University of Maryland,  Feb 2024  </li>
    <li> Analysis seminar, University of Texas at Austin, Jan 2024  </li>
+  <br />
 
   <h3> 2023 </h3>
   <li> Calderon-Zygmund Analysis Seminar, University of Chicago, Nov 2023 </li>  
