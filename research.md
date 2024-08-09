@@ -54,7 +54,9 @@ The Matlab code for "Stable nearly self-similar blowup of the 2D Boussinesq and 
 
 <li>
 Vorticity blowup in compressible Euler equations in $R^d$. Jiajie Chen. arXiv preprint, 2024.  
+<a href="https://arxiv.org/abs/2408.04319" >[arXiv]</a>
 </li>
+
 
 <li>
 On the stability of blowup solutions to the complex Ginzburg-Landau equation in $R^d$. 
