@@ -15,9 +15,9 @@ slug: /presentations -->
 
 <ul>
   <h3> 2024 </h3>
-<!--    <li> PDE seminar,  Peking University,  July 2024. </li>
+   <li> PDE seminar,  Peking University,  July 2024. </li>
    <li> PDE seminar,  AMSS, Chinese Academic of Science, July 2024. </li>
-   <li> Singularities in incompressible flows: computer-assisted proofs and physics-informed neural networks, University of Minnesota, Apr 2024  </li> -->
+   <li> Singularities in incompressible flows: computer-assisted proofs and physics-informed neural networks, University of Minnesota, Apr 2024  </li>
    <li> PDE seminar, AMSS, Chinese Academic of Science (Online), Apr 2024. </li>
    <li> Analysis & PDE Seminar, UCLA, March 2024. </li>
    <li> PDE-applied math seminar, University of Maryland,  Feb 2024  </li>
