@@ -53,6 +53,13 @@ The Matlab code for "Stable nearly self-similar blowup of the 2D Boussinesq and 
 <ul>
 
 <li>
+Blowup for the defocusing septic complex-valued nonlinear wave equation in $R^{4+1}$. 
+Tristan Buckmaster, Jiajie Chen. arXiv preprint, 2024.  
+<a href="https://arxiv.org/abs/2410.15619" >[arXiv]</a>
+</li>
+
+
+<li>
 Vorticity blowup in compressible Euler equations in $R^d$. Jiajie Chen. arXiv preprint, 2024.  
 <a href="https://arxiv.org/abs/2408.04319" >[arXiv]</a>
 </li>
