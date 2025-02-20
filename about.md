@@ -62,14 +62,23 @@ slug: /about
 <h1>Teaching</h1>
 
 
+
 <h2>Instructor at New York University </h2>
 <font size="+1">  
  <ul>   
-   <li> <b> MATH-UA 263 </b>.  Partial Differential Equations. Fall 2023  </li>  
+     <li> <b> MATH-UA 252 </b>.  Numerical Analysis. Spring 2025  </li>  
+   <li> <b> MATH-UA 121 </b>.  Calculus I. Fall 2024  </li>  
+     <li> <b> MATH-UA 263 </b>.  Partial Differential Equations. Fall 2023, Spring 2024  </li>  
    <li> <b> MATH-UA 262 </b>.  Ordinary Differential Equations. Fall 2022, Spring 2023  </li>  
  </ul>
 </font>
 </div>
+
+
+
+
+
+
 
 
 
@@ -85,7 +94,7 @@ slug: /about
 
 
 
-<h2>Teaching Assistant at Caltech </h2>
+<!-- <h2>Teaching Assistant at Caltech </h2>
 <font size="+1">	
  <ul> 	
    <li> <b> ACM 109</b>. Mathematical Modelling. Spring 2021.  </li>  
@@ -96,5 +105,5 @@ slug: /about
  	<li> <b> ACM 106b.</b>. Introductory Methods of Computational Mathematics. Winter 2019.</li>
  	<li> <b> ACM 106a.</b> Introductory Methods of Computational Mathematics. Fall 2018. </li>
  </ul>
-</font>
+</font> -->
 <!-- </div> -->
