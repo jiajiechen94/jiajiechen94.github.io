@@ -10,7 +10,20 @@ profile_picture:
 	<p>
 	<font size="+1">
 
-      I am a Courant Instructor at <a href="cims.nyu.edu"> Courant Institute, NYU</a>. I obtained my Ph.D. in Applied & Comput. Math. at Caltech, advised by Prof. <a href="http://users.cms.caltech.edu/~hou/"> Thomas Y. Hou</a>. Before coming to Caltech, I obtained my B.S. in Mathematics at Peking University. My research focuses on singularity formation in nonlinear PDEs.
+<!-- I am a Courant Instructor at <a href="cims.nyu.edu"> Courant Institute, NYU</a>. I obtained my Ph.D. in Applied & Comput. Math. at Caltech, advised by Prof. <a href="http://users.cms.caltech.edu/~hou/"> Thomas Y. Hou</a>. Before coming to Caltech, I obtained my B.S. in Mathematics at Peking University. My research focuses on singularity formation in nonlinear PDEs. -->
+
+
+<!-- V3  -->
+<!-- I am an Assistant Professor in the Department of Mathematics at the University of Chicago. 
+Before joining UChicago, I was a Courant Instructor at New York University from 2022-2025.
+I received my Ph.D. in Applied & Computational Math at Caltech and my B.S. in Mathematics at Peking University. My research focuses on singularity formation in nonlinear PDEs, particularly those related to mathematical fluid mechanics. -->
+
+
+<!-- V4  -->
+I am an Assistant Professor in the Department of Mathematics at the University of Chicago.
+Before joining UChicago, I was a Courant Instructor at New York University from 2022 to 2025.
+I received my Ph.D. in Applied & Computational Math at Caltech and my B.S. in Mathematics at Peking University. My research focuses on singularity formation in nonlinear PDEs, particularly those related to mathematical fluid mechanics.
+
 
    <!-- <p> I am on the 2024-2025 academic job market.  </p> -->
 <!--   Update Nov 21, 2023  

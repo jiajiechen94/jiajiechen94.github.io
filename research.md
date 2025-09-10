@@ -53,15 +53,19 @@ The Matlab code for "Stable nearly self-similar blowup of the 2D Boussinesq and 
 <ul>
 
 <li>
+Singularity formation in 3D Euler equations with smooth initial data and boundary. Jiajie Chen, Thomas Y. Hou,<i>Proceedings of the National Academy of Sciences 122, no. 27 (2025).</i>
+</li>
+
+<li>
 Blowup for the defocusing septic complex-valued nonlinear wave equation in $R^{4+1}$. 
-Tristan Buckmaster, Jiajie Chen. arXiv preprint, 2024.  
+Tristan Buckmaster, Jiajie Chen. Submitted, 2024.  
 <a href="https://arxiv.org/abs/2410.15619" >[arXiv]</a>
 </li>
 
 
+
 <li>
-Vorticity blowup in compressible Euler equations in $R^d$. Jiajie Chen. arXiv preprint, 2024.  
-<a href="https://arxiv.org/abs/2408.04319" >[arXiv]</a>
+Vorticity blowup in compressible Euler equations in $R^d$. Jiajie Chen,<i>Annals of PDE 11.2 (2025): 1-71.</i> <a href="https://arxiv.org/abs/2408.04319" >[arXiv]</a>
 </li>
 
 
@@ -75,8 +79,7 @@ Vorticity blowup in 2D compressible Euler equations. Jiajie Chen, Giorgio Cialde
 </li>
 
 <li>
-Nearly self-similar blowup of the slightly perturbed homogeneous Landau equation with very soft potentials. 
-Jiajie Chen. Submitted, 2023. <a href="https://arxiv.org/abs/2311.11511" >[arXiv]</a>
+Nearly self-similar blowup of the slightly perturbed homogeneous Landau equation with very soft potentials. Jiajie Chen. Submitted, 2023. <a href="https://arxiv.org/abs/2311.11511" >[arXiv]</a>
 </li>
 
 
@@ -85,10 +88,14 @@ Remarks on the smoothness of the $ C^{1,\alpha} $ asymptotically self-similar si
 <a href="https://arxiv.org/abs/2309.00150" >[arXiv]</a>
 </li>
 
+
 <li>
 Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data II: Rigorous Numerics.
-Jiajie Chen, Thomas Y. Hou. Submitted, 2023.<a href="https://arxiv.org/abs/2305.05660" >[arXiv]</a>
+Jiajie Chen, Thomas Y. Hou,<i>Multiscale Modeling & Simulation 23.1 (2025): 25-130. </i><a href="https://arxiv.org/abs/2305.05660" >[arXiv]</a>
 </li>
+
+
+
 
 <li>
 	 Stable nearly self-similar blowup of the 2D Boussinesq and 3D Euler equations with smooth data I: Analysis. Jiajie Chen, Thomas Y. Hou. Submitted, 2023.<a href="https://arxiv.org/abs/2210.07191" >[arXiv]</a>
