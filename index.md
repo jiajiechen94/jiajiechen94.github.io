@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<style>
+<!-- <style>
 img[alt="website picture"] {
   width: 180px;
   height: auto;
@@ -21,12 +21,12 @@ img[alt="website picture"] {
     I received my Ph.D. in Applied & Computational Math at Caltech and my B.S. in Mathematics at Peking University.
     My research focuses on singularity formation in nonlinear PDEs, particularly those related to mathematical fluid mechanics.
   </div>
-</div>
+</div> -->
 
 
 
 
-<!-- <div id="header" style="width: 105%;">
+<div id="header" style="width: 110%;">
     <div id="centered" style="margin: 0 auto; width: 100%;"></div>
 	<p>
 	<font size="+1">
@@ -35,5 +35,5 @@ I am an Assistant Professor in the Department of Mathematics at the University o
 Before joining UChicago, I was a Courant Instructor at New York University from 2022 to 2025.
 I received my Ph.D. in Applied & Computational Math at Caltech and my B.S. in Mathematics at Peking University. My research focuses on singularity formation in nonlinear PDEs, particularly those related to mathematical fluid mechanics.
 
-</font> -->
+</font>
 
