@@ -71,11 +71,11 @@ Vorticity blowup in compressible Euler equations in $R^d$. Jiajie Chen, <i>Annal
 
 <li>
 On the stability of blowup solutions to the complex Ginzburg-Landau equation in $R^d$. 
-Jiajie Chen, Thomas Y. Hou, Van Tien Nguyen, Yixuan Wang. Submitted, 2024.  <a href="https://arxiv.org/abs/2407.15812" >[arXiv]</a>
+Jiajie Chen, Thomas Y. Hou, Van Tien Nguyen, Yixuan Wang. <i>To appear in Annals of PDE</i>, 2024.  <a href="https://arxiv.org/abs/2407.15812" >[arXiv]</a>
 </li>
 
 <li>
-Vorticity blowup in 2D compressible Euler equations. Jiajie Chen, Giorgio Cialdea, Steve Shkoller, Vlad Vicol. Submitted, 2024.  <a href="https://arxiv.org/abs/2407.06455" >[arXiv]</a>
+Vorticity blowup in 2D compressible Euler equations. Jiajie Chen, Giorgio Cialdea, Steve Shkoller, Vlad Vicol. <i>To appear in Duke Math. J.</i>, 2024.  <a href="https://arxiv.org/abs/2407.06455" >[arXiv]</a>
 </li>
 
 <li>
