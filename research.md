@@ -96,7 +96,9 @@ Jacob Bedrossian, Jiajie Chen, Maria P. Gualdani, Sehyun Ji, Vlad Vicol, Jinchen
 
 <li>
 Singularity formation in 3D Euler equations with smooth initial data and boundary. Jiajie Chen, Thomas Y. Hou, <i>Proceedings of the National Academy of Sciences 122, no. 27 (2025).</i>
+<a href="https://www.pnas.org/doi/10.1073/pnas.2500940122" >[Journal]</a>
 </li>
+
 
 <li>
 Blowup for the defocusing septic complex-valued nonlinear wave equation in $R^{4+1}$. 
