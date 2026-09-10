@@ -102,7 +102,7 @@ Singularity formation in 3D Euler equations with smooth initial data and boundar
 
 <li>
 Blowup for the defocusing septic complex-valued nonlinear wave equation in $R^{4+1}$. 
-Tristan Buckmaster, Jiajie Chen, <i>Communications of the American Mathematical Society, 6 (2026): 947-1020</i> <a href="https://arxiv.org/abs/2410.15619" >[arXiv]</a>
+Tristan Buckmaster, Jiajie Chen, <i>Communications of the American Mathematical Society, 6 (2026): 947-1020.</i> <a href="https://arxiv.org/abs/2410.15619" >[arXiv]</a>
 </li>
 
 
