@@ -14,13 +14,50 @@ slug: /presentations -->
 <font size="+1">
 
 <ul>
+  <h3> 2026 </h3>
+   <li> Workshop on nonlinear PDEs in fluid mechanics, AMSS, Chinese Academy of Sciences, Aug 2026. </li>
+   <li> One day workshop on nonlinear PDEs, Peking University, Aug 2026. </li>
+   <li> New Methods in Evolution Partial Differential Equations, ICM Satellite Meeting, Princeton, July 2026. </li>
+   <li> Conference on Singularity Formation and Propagation in Gas Dynamics, Fields institute, May 2026. </li>
+   <li> Workshop for Research and Workforce Development in Fluid Mechanics II, University of Nebraska–Lincoln, Apr 2026. </li>
+   <li> PDE Seminar, Penn State University, Mar 2026. </li>
+   <li> Differential Equations Seminar, University of Michigan, Feb 2026. </li>
+   <li> PDE & Applied Math Seminar, UC Riverside (online), Feb 2026. </li>
+  <br />
+
+  <h3> 2025 </h3>
+   <li> Workshop on Fluid Dynamics and Turbulence, ICERM Brown, Nov 2025. </li>
+   <li> Calderon-Zygmund Analysis seminar, University of Chicago, Oct 2025. </li>
+   <li> Analysis and Applied Mathematics Seminar, University of Illinois Chicago, Oct 2025. </li>
+   <li> AMS Southeastern Sectional Meeting, Tulane University, Oct 2025. </li>
+   <li> Mathematical Physics Seminar, Johns Hopkins University, Sep 2025. </li>
+   <li> PDE/Applied Math Seminar, Indiana University Bloomington, Sep 2025. </li>
+   <li> Workshop on Advances in Mathematical Fluid Dynamics, Peking University, June 2025. </li>
+   <li> Virtual Analysis and PDE Seminar, Online, May 2025. </li>
+   <li> Harmonic Analysis & PDE Seminar, CUNY Graduate Center, May 2025. </li>
+   <li> SITE Seminar, NYU Abu Dhabi, Apr 2025. </li>
+   <li> Workshop on Integro-differential equations in many-particle interacting systems, AIM, Caltech, Apr 2025. </li>
+   <li> AMS Eastern sectional meeting, Hartford, Apr 2025. </li>
+   <li> Analysis Seminar, Stony Brook University, Apr 2025. </li>
+   <li> Young Mathematician Lecture Series, National University of Singapore, Mar 2025. </li>
+   <li> Analysis & PDE Seminar, National University of Singapore, Mar 2025. </li>
+   <li> Fluid Mechanics & Waves Seminar, New Jersey Institute of Technology, Feb 2025. </li>
+   <li> PDE Seminar, University of Nebraska–Lincoln, Feb 2025. </li>
+  <br />
+
   <h3> 2024 </h3>
+   <li> Analysis Seminar, NYU Courant Institute, Oct 2024. </li>
+   <li> Analysis of Fluids and Related Topics, Princeton University, Oct 2024. </li>
+   <li> PDE Seminar, Brown University, Oct 2024. </li>
+   <li> Differential Equations Seminar, University of Michigan, Sep 2024. </li>
+   <li> PDE seminar, Fudan University, Shanghai, Aug 2024. </li>
    <li> PDE seminar,  Peking University,  July 2024. </li>
    <li> PDE seminar,  AMSS, Chinese Academic of Science, July 2024. </li>
    <li> Singularities in incompressible flows: computer-assisted proofs and physics-informed neural networks, University of Minnesota, Apr 2024  </li>
    <li> PDE seminar, AMSS, Chinese Academic of Science (Online), Apr 2024. </li>
+   <li> AMS Southeastern Sectional Meeting, Florida State University, Mar 2024. </li>
    <li> Analysis & PDE Seminar, UCLA, March 2024. </li>
-   <li> PDE-applied math seminar, University of Maryland,  Feb 2024  </li>
+   <li> Analysis seminar, University of Maryland, Feb 2024. </li>
    <li> Analysis seminar, University of Texas at Austin, Jan 2024  </li>
   <br />
 
@@ -102,6 +139,7 @@ Harvard University, Mar 2019. </li>
  <br />
 
    <h3> 2018 </h3>
+   <li> AIM Square: Towards a 3D Euler singularity, AIM, San Jose, May 2018. </li>
   <li> Workshop on Multiscale Problems in Materials Science and Biology: Analysis and Computation, Tsinghua Sanya International Mathematics Forum, Jan 2018.
   	</li>
 
