@@ -52,14 +52,55 @@ The Matlab code for "Stable nearly self-similar blowup of the 2D Boussinesq and 
 <font size="+1">
 <ul>
 
+
+
+<li>
+Analytic finite-rank corrections for singularly weighted estimates in a computer-assisted proof of 3D Euler singularity. Jiajie Chen, Thomas Y. Hou. Submitted, 2026.
+<a href="https://arxiv.org/abs/2607.15256" >[arXiv]</a>
+</li>
+
+
+
+<li>
+A new class of Euler explosions. Jiajie Chen, Giorgio Cialdea, Steve Shkoller, Vlad Vicol. Submitted, 2026. 
+<a href="https://arxiv.org/abs/2606.18152" >[arXiv]</a>
+</li>
+
+
+
+<li>
+Asymptotically self-similar blowup for 3D incompressible Euler with $C^{1,1/3-}$ velocity II: 3D profiles, blowup, and limiting behavior. Jiajie Chen. Submitted, 2026. 
+<a href="https://arxiv.org/abs/2605.15130" >[arXiv]</a>
+</li>
+
+
+<li>
+Asymptotically self-similar blowup for 3D incompressible Euler with $C^{1,1/3-}$ velocity I: 
+$C^{\infty}$ 1D limiting profiles. Jiajie Chen. Submitted, 2026. 
+<a href="https://arxiv.org/abs/2605.15149" >[arXiv]</a>
+</li>
+
+
+<li>
+Smooth and stable Euler implosions. Jiajie Chen, Steve Shkoller, Vlad Vicol. Submitted, 2026. 
+<a href="https://arxiv.org/abs/2605.00808" >[arXiv]</a>
+</li>
+
+
+
+<li>
+Finite time singularities in the Landau equation with very hard potentials. 
+Jacob Bedrossian, Jiajie Chen, Maria P. Gualdani, Sehyun Ji, Vlad Vicol, Jincheng Yang. Submitted, 2026.
+<a href="https://arxiv.org/abs/2602.05981" >[arXiv]</a>
+</li>
+
 <li>
 Singularity formation in 3D Euler equations with smooth initial data and boundary. Jiajie Chen, Thomas Y. Hou, <i>Proceedings of the National Academy of Sciences 122, no. 27 (2025).</i>
 </li>
 
 <li>
 Blowup for the defocusing septic complex-valued nonlinear wave equation in $R^{4+1}$. 
-Tristan Buckmaster, Jiajie Chen. Submitted, 2024.  
-<a href="https://arxiv.org/abs/2410.15619" >[arXiv]</a>
+Tristan Buckmaster, Jiajie Chen, <i>Communications of the American Mathematical Society, 6 (2026): 947-1020</i> <a href="https://arxiv.org/abs/2410.15619" >[arXiv]</a>
 </li>
 
 
@@ -71,16 +112,20 @@ Vorticity blowup in compressible Euler equations in $R^d$. Jiajie Chen, <i>Annal
 
 <li>
 On the stability of blowup solutions to the complex Ginzburg-Landau equation in $R^d$. 
-Jiajie Chen, Thomas Y. Hou, Van Tien Nguyen, Yixuan Wang. <i>To appear in Annals of PDE</i>, 2024.  <a href="https://arxiv.org/abs/2407.15812" >[arXiv]</a>
+Jiajie Chen, Thomas Y. Hou, Van Tien Nguyen, Yixuan Wang, <i>
+	Annals of PDE 11.2 (2025): 29.</i><a href="https://arxiv.org/abs/2407.15812" >[arXiv]</a>
+</li>
+
+
+
+<li>
+Vorticity blowup in 2D compressible Euler equations. Jiajie Chen, Giorgio Cialdea, Steve Shkoller, Vlad Vicol, <i>To appear in Duke Math. J.</i>, 2024.  <a href="https://arxiv.org/abs/2407.06455" >[arXiv]</a>
 </li>
 
 <li>
-Vorticity blowup in 2D compressible Euler equations. Jiajie Chen, Giorgio Cialdea, Steve Shkoller, Vlad Vicol. <i>To appear in Duke Math. J.</i>, 2024.  <a href="https://arxiv.org/abs/2407.06455" >[arXiv]</a>
+Nearly self-similar blowup of the slightly perturbed homogeneous Landau equation with very soft potentials. Jiajie Chen, <i>Journal of Functional Analysis (2026): 111626.</i><a href="https://arxiv.org/abs/2311.11511" >[arXiv]</a>
 </li>
 
-<li>
-Nearly self-similar blowup of the slightly perturbed homogeneous Landau equation with very soft potentials. Jiajie Chen. Submitted, 2023. <a href="https://arxiv.org/abs/2311.11511" >[arXiv]</a>
-</li>
 
 
 <li>
